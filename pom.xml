@@ -13,6 +13,7 @@
         <module>logback-example</module>
         <module>log4j2-example</module>
         <module>lombok-example</module>
+        <module>aop-logging-example</module>
     </modules>
 
     <parent>
